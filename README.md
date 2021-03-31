@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prakash-Reddy08
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me mjprakashreddy1@gmail.com
 
 <!---
