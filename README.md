@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Prakash-Reddy08
-- 👀 I’m interested in Web development
-- 🌱 I’m MERN stack developer
+- 👋 Hi, I’m Prakash Reddy  
+- 🌱 I’m Self taught Developer
+- 🎓 Pursuing MCA
 - 📫 How to reach me mjprakashreddy1@gmail.com
 
 <!---
