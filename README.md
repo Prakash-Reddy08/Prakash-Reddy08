@@ -45,7 +45,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prakash-Reddy08&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prakash-Reddy08&theme=dark&background=000000)](https://git.io/streak-stats) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Reddy08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
 
 ---
