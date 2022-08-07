@@ -45,10 +45,13 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prakash-Reddy08&theme=dark&background=000000)](https://git.io/streak-stats)  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Prakash-Reddy08&theme=dark&background=000000)](https://git.io/streak-stats) 
+
+ <div align="center">
+ 
+ ![github contribution grid snake animation](https://github.com/Prakash-Reddy08/Prakash-Reddy08/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://github.com/Prakash-Reddy08/Prakash-Reddy08/output/blob/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+  
+</div>
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Reddy08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-<!---
-Prakash-Reddy08/Prakash-Reddy08 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
