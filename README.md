@@ -49,7 +49,7 @@
 <span>[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Prakash-Reddy08&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)</span>
  <div align="center">
  
- ![github contribution grid snake animation](https://github.com/Prakash-Reddy08/Prakash-Reddy08/blob/output/github-contribution-grid-snake.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://github.com/Prakash-Reddy08/Prakash-Reddy08/output/blob/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
+ ![github contribution grid snake animation](https://raw.githubusercontent.com/Prakash-Reddy08/Prakash-Reddy08/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Prakash-Reddy08/Prakash-Reddy08/output/github-contribution-grid-snake-sissa-white.svg#gh-light-mode-only)
   
 </div>
