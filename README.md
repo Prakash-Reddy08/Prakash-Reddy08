@@ -15,18 +15,21 @@
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="360"/>
 </div>
 
-
 ---
+
 ### :man_technologist: About Me :
+
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
+
 - 🌱 I’m Self taught Developer
 - 🎓 Pursuing MCA
--  :bricks: i am a work in progress
+- :bricks: i am a work in progress
 - 📫 How to reach me mjprakashreddy1@gmail.com
 
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
+
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
@@ -55,7 +58,9 @@
 </div>
 
 ---
+
 ### Watch my contribution graph get eaten by the snake 🐍
+
  <div align="center">
  
  ![github contribution grid snake animation](https://github.com/Prakash-Reddy08/Prakash-Reddy08/blob/output/github-contribution-grid-snake-sissa.svg#gh-dark-mode-only)
