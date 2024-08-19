@@ -11,11 +11,9 @@
 <img src="https://komarev.com/ghpvc/?username=Prakash-Reddy08&style=flat-square&color=blue" alt=""/>
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 </div>
-<div align="center">
+<!-- <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="360"/>
-</div>
-
----
+</div> -->
 
 ### :man_technologist: About Me :
 
