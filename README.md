@@ -20,7 +20,7 @@
 :wave: I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India.
 
 
-- 🎓 Pursuing MCA
+- 🎓 CS 2023
 - :bricks: i am a work in progress
 - 📫 How to reach me mjprakashreddy1@gmail.com
 
